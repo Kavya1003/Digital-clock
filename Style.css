@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+}
+div {
+    color: aqua;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    margin-top: 300px;
+    letter-spacing: 20px;
+}
